@@ -1,5 +1,5 @@
 
-#!/bin/bash\n
+#!/bin/bash
 
 echo'this is created By AR'
 
